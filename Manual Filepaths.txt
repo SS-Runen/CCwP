@@ -1,0 +1,8 @@
+C:\Users\Rives\Downloads\Quizzes\Quiz 0 Overwrite Number 1.txt
+C:\Users\Rives\Downloads\Quizzes\Quiz 0 Overwrite Number 2.txt
+
+D:/EncryptDecrypt/EncryptDecrypt.txt
+
+C:/Users/Rives/Downloads/Decryptions
+
+D:/EncryptDecrypt/Capitals Quiz 2 Encrypted Text Only.txt
